@@ -1,0 +1,1 @@
+реализовать класс sort возможно два способа ( Collections.sort(list, comparator);)
